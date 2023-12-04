@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="fragment_horizontal_margin">12dp</dimen>
+    <dimen name="fragment_vertical_margin">@dimen/_12sdp</dimen>
+
+    <!-- //For Implementing Onfido SDK// Temp-->
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="onfido_logo_medium_width">88dp</dimen>
+    <dimen name="onfido_logo_medium_height">21dp</dimen>
+    <dimen name="bank_intrusctions_side_margin">43dp</dimen>
+    <dimen name="title_bar_height">48dp</dimen>
+    <!-- //For Implementing Onfido SDK// Temp-->
+
+    <!-- Text Size -->
+    <dimen name="extra_large_text">@dimen/_25ssp</dimen>
+    <dimen name="xx_large_text">@dimen/_20sdp</dimen>
+    <dimen name="x_large_text">@dimen/_18sdp</dimen>
+    <dimen name="large_text">@dimen/_17ssp</dimen>
+    <dimen name="larges_text">@dimen/_16ssp</dimen>
+    <dimen name="medium_text">@dimen/_14ssp</dimen>
+    <dimen name="small_medium_text">@dimen/_13ssp</dimen>
+    <dimen name="regular_text">@dimen/_12ssp</dimen>
+    <dimen name="small_text">@dimen/_10ssp</dimen>
+    <dimen name="icon_text">@dimen/_8ssp</dimen>
+
+    <!-- Margins -->
+    <dimen name="standard_margin_start">@dimen/_20sdp</dimen>
+    <dimen name="standard_margin_end">@dimen/_20sdp</dimen>
+    <dimen name="standard_margin_top">@dimen/_20sdp</dimen>
+    <dimen name="standard_margin_Bottom">@dimen/_20sdp</dimen>
+    <dimen name="negative_standard_margin">@dimen/_minus20sdp</dimen>
+
+    <!-- Margins   -->
+    <dimen name="margin_extra_small">@dimen/_2sdp</dimen>
+    <dimen name="margin_small">@dimen/_4sdp</dimen>
+    <dimen name="margin_small_mid">@dimen/_6sdp</dimen>
+    <dimen name="margin_medium">@dimen/_8sdp</dimen>
+    <dimen name="margin_normal">@dimen/_12sdp</dimen>
+    <dimen name="margin_large">@dimen/_16sdp</dimen>
+    <dimen name="margin_extra_large">@dimen/_24sdp</dimen>
+
+    <!-- Profile Image Dimens -->
+    <dimen name="prof_image_width">@dimen/_48sdp</dimen>
+    <dimen name="prof_image_height">@dimen/_48sdp</dimen>
+
+    <!--Checkbox Dimens -->
+    <dimen name="checkbox_width">@dimen/_20sdp</dimen>
+    <dimen name="checkbox_height">@dimen/_20sdp</dimen>
+
+    <!--QR Image Dimens -->
+    <dimen name="qr_image_width">@dimen/_24sdp</dimen>
+    <dimen name="qr_image_height">@dimen/_24sdp</dimen>
+
+    <!--Image BG Dimens -->
+    <dimen name="image_bg_width">@dimen/_32sdp</dimen>
+    <dimen name="image_bg_height">@dimen/_32sdp</dimen>
+
+    <!--Image vector Dimens -->
+    <dimen name="image_arrow_width">@dimen/_10sdp</dimen>
+    <dimen name="image_arrow_height">@dimen/_10sdp</dimen>
+
+    <!--Image large Dimens -->
+    <dimen name="image_large_width">@dimen/_16sdp</dimen>
+    <dimen name="image_large_height">@dimen/_16sdp</dimen>
+
+    <!--Edit Profile Image Dimens -->
+    <dimen name="edit_profile_img_width">@dimen/_100sdp</dimen>
+    <dimen name="edit_profile_img_height">@dimen/_100sdp</dimen>
+
+    <!--Transfer List Cards Image Dimens -->
+    <dimen name="transfer_card_img_width">@dimen/_45sdp</dimen>
+    <dimen name="transfer_card_img_height">@dimen/_45sdp</dimen>
+
+    <!-- Fix Margins   -->
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="margin_3">3dp</dimen>
+    <dimen name="margin_4">4dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_14">14dp</dimen>
+    <dimen name="margin_15">15dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_17">17dp</dimen>
+
+    <dimen name="margin_18">18dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_21">21dp</dimen>
+    <dimen name="margin_22">22dp</dimen>
+    <dimen name="margin_25">25dp</dimen>
+    <dimen name="margin_26">26dp</dimen>
+    <dimen name="margin_28">28dp</dimen>
+    <dimen name="margin_24">24dp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="margin_32">32dp</dimen>
+    <dimen name="margin_34">34dp</dimen>
+    <dimen name="margin_34.5">34.5dp</dimen>
+    <dimen name="margin_35">35dp</dimen>
+    <dimen name="margin_36">36dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+    <dimen name="margin_48">48dp</dimen>
+    <dimen name="margin_50">50dp</dimen>
+    <dimen name="margin_45">45dp</dimen>
+    <dimen name="width_0dp">0dp</dimen>
+    <dimen name="margin_80">80dp</dimen>
+    <dimen name="margin_60">60dp</dimen>
+    <dimen name="margin_52">52dp</dimen>
+    <dimen name="margin_55">55dp</dimen>
+    <dimen name="margin_12">12dp</dimen>
+    <dimen name="margin_6">6dp</dimen>
+    <dimen name="margin_7">7dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_100">100dp</dimen>
+    <dimen name="margin_0">0dp</dimen>
+    <dimen name="margin_1">1dp</dimen>
+
+</resources>

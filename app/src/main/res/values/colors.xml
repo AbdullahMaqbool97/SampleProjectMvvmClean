@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="black_color">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey_white">#F3F4FA</color>
+    <color name="translucent">#20FFFFFF</color>
+    <color name="black_overlay">#99000000</color>
+    <color name="yellow">#FADF2A</color>
+    <color name="transparent">#00000000</color>f
+    <color name="overlay">#98000000</color>
+    <color name="grey">#E0E0E0</color>
+    <color name="grayOriginal">#808080</color>
+    <color name="pressed_bg">#64b7b7b7</color>
+    <color name="colorPrimary">#ED2126</color>
+    <color name="colorYellow">#F9D905</color>
+    <color name="colorPrimaryDisable">#F2A1A6</color>
+    <color name="colorPrimaryDim">#FDF7F7</color>
+    <color name="colorPrimaryDark">#B61E22</color>
+    <color name="colorPrimaryMedium">#E72D32</color>
+    <color name="colorPrimaryLight">#E4ED9395</color>
+    <color name="colorSecondary">#C91C21</color>
+    <color name="colorAccent">#F26369</color>
+    <color name="textPrimary">#ED2126</color>
+    <color name="textSecondary">#00264C</color>
+    <color name="colorSolidText">#00264C</color>
+    <color name="colorLightText">#788091</color>
+    <color name="colorNeutral">#788091</color>
+    <color name="colorNeutral10">#F4F4F6</color>
+    <color name="colorNeutral20">#E9EAED</color>
+    <color name="colorNeutral30">#DDDFE3</color>
+    <color name="colorNeutralLight">#A5AAB6</color>
+    <color name="colorGrayDark">#535865</color>
+    <color name="colorButtonOutline">#DDDFE3</color>
+    <color name="colorBackground">#F4F4F6</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnPrimary40">#65FFFFFF</color>
+    <color name="colorOnPrimary10">#1AFFFFFF</color>
+    <color name="colorDim">#B3020202</color>
+    <color name="greyNormal">#F4F4F6</color>
+    <color name="grayDark">#888888</color>
+    <color name="statusBarColorRed">#B90F14</color>
+    <color name="mobileTopUpAndPlansCardBorderColor">#33091E42</color>
+    <color name="colorGreenPositive">#2D9641</color>
+    <color name="disabledTextColor">#7D90A4</color>
+
+    <!--Onfido Colors-->
+    <color name="onfidoColorPrimary">#FFFFFF
+    </color> <!--Defines the background color of the Toolbar which guides the user through the flow-->
+    <color name="onfidoColorPrimaryDark">#FFFFFF
+    </color> <!--Defines the color of the status bar above the Toolbar-->
+    <color name="onfidoTextColorPrimary">#E72D32
+    </color> <!--Defines the color of the title on the Toolbar-->
+    <color name="onfidoTextColorSecondary">#E4ED9395
+    </color> <!--Defines the color of the subtitle on the Toolbar-->
+    <color name="onfidoColorAccent">#C91C21
+    </color><!--Defines the color of the FloatingActionButton which allows the user to move between steps, as well as some details on the alert dialogs shown during the flow-->
+    <color name="onfidoPrimaryButtonColor">#ED2126
+    </color><!--Defines the background color of the primary action buttons (e.g. proceed to the next flow step, confirm picture/video, etc), the color of the text on the secondary action buttons (e.g. retake picture/video) and the background color of some icons and markers during the flow-->
+    <color name="onfidoPrimaryButtonColorPressed">#ED2126
+    </color> <!--Defines the background color of the primary action buttons when pressed-->
+    <color name="onfidoPrimaryButtonTextColor">#FFFFFF
+    </color><!--Defines the color of the text inside the primary action buttons-->
+
+    <color name="unread_notification">#FAE6E7</color> <!--#FAE6E7-->
+    <color name="notificationbg">#ffd721</color>
+    <color name="tutorial_black">#CC000000</color>
+
+</resources>

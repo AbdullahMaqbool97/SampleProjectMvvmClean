@@ -1,0 +1,6 @@
+
+Skotlin:S1481ˆ".Remove this unused "tokenType" local variable.(Ï›ÞÞþÿÿÿÿ8­Éç·¿1
+Okotlin:S1481‡"*Remove this unused "token" local variable.(¦›‰Àùÿÿÿÿ8­Éç·¿1
+˜kotlin:S11924"tDefine a constant instead of duplicating this literal "sha256/TqqyRY1gkYKOZKQbihIAHaI1sp5bws+5HU5+bfU2Big=" 5 times.(õ—ÆÄüÿÿÿÿ8½Éç·¿1
+’kotlin:S11928"tDefine a constant instead of duplicating this literal "sha256/GIIExTg3FczJyQ8CAQFdvr4PG1qhCsv0oi7JTVZ1Mxw=" 4 times.(Ä¾ïC8½Éç·¿1
+qkotlin:S117n"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(©³Öõÿÿÿÿÿ8ÆÉç·¿1

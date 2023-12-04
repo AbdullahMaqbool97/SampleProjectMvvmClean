@@ -1,0 +1,45 @@
+
+gkotlin:S107Œ"HThis function has 15 parameters, which is greater than the 7 authorized.(èÏûÑ8—ã›¶¿1
+gkotlin:S107è"HThis function has 14 parameters, which is greater than the 7 authorized.(š‘Û8°ã›¶¿1
+lkotlin:S107Ã"HThis function has 15 parameters, which is greater than the 7 authorized.(‡çííıÿÿÿÿ8°ã›¶¿1
+gkotlin:S107œ"HThis function has 17 parameters, which is greater than the 7 authorized.(èÏûÑ8°ã›¶¿1
+gkotlin:S107µ"HThis function has 16 parameters, which is greater than the 7 authorized.(Ó³ª®8®‚œ¶¿1
+Wkotlin:S1481`"8Remove this unused "networkCapabilities" local variable.(³æ¶¯8ãã›¶¿1
+Okotlin:S1481÷"*Remove this unused "specs" local variable.(Ï“·òıÿÿÿÿ8ãã›¶¿1
+Nkotlin:S1481¢")Remove this unused "days" local variable.(İ™›»üÿÿÿÿ8ƒœ¶¿1
+Ykotlin:S1481Ç"4Remove this unused "walletTypeValue" local variable.(ÃªÊÿÿÿÿÿ8ƒœ¶¿1
+Ekotlin:S6615©" Remove this useless initializer.(Ï†’çşÿÿÿÿ8óã›¶¿1
+@kotlin:S6615¨" Remove this useless initializer.(‡ÃÁØ8Ğ±“¶¿1
+Ekotlin:S6615§" Remove this useless initializer.(ûìœÕşÿÿÿÿ8Ñ±“¶¿1
+@kotlin:S6615ğ" Remove this useless initializer.(æİË©8óã›¶¿1
+Ekotlin:S6615ï" Remove this useless initializer.(ßâÃÿÿÿÿÿ8Ñ±“¶¿1
+ekotlin:S4830­"@Enable server certificate validation on this SSL/TLS connection.(èñôÑùÿÿÿÿ8üã›¶¿1
+ekotlin:S4830µ"@Enable server certificate validation on this SSL/TLS connection.(’™ÅÙùÿÿÿÿ8üã›¶¿1
+Fkotlin:S1125Ÿ"'Remove the unnecessary Boolean literal.(èª½?8…ä›¶¿1
+Fkotlin:S1125ú"'Remove the unnecessary Boolean literal.(èª½?8†ä›¶¿1
+Fkotlin:S1125Ö"'Remove the unnecessary Boolean literal.(èª½?8†ä›¶¿1
+Fkotlin:S1125±"'Remove the unnecessary Boolean literal.(èª½?8†ä›¶¿1
+>kotlin:S1128<"Remove this unused import.(¼€õ¹ùÿÿÿÿ8Øêœ¶¿1
+9kotlin:S1128="Remove this unused import.(Ì©î¸8íêœ¶¿1
+Bkotlin:S125b"Remove this commented out code.(ÇÃÂúÿÿÿÿ8™ä›¶¿1
+Ckotlin:S125®"Remove this commented out code.(Å€·’ıÿÿÿÿ8™ä›¶¿1
+>kotlin:S125¥"Remove this commented out code.(éÎº8Şƒœ¶¿1
+Ckotlin:S125Õ"Remove this commented out code.(šªÅãøÿÿÿÿ8Şƒœ¶¿1
+Ckotlin:S125ê"Remove this commented out code.(¶¦çìúÿÿÿÿ8‚ëœ¶¿1
+Gkotlin:S1874o"#Deprecated code should not be used.(ÚÙÇŸùÿÿÿÿ8ë²“¶¿1
+Akotlin:S1874p"#Deprecated code should not be used.(Šï‡h8ë²“¶¿1
+Gkotlin:S1874q"#Deprecated code should not be used.(¤µèõıÿÿÿÿ8ë²“¶¿1
+Gkotlin:S1874r"#Deprecated code should not be used.(¥åÿÿÿÿÿ8ë²“¶¿1
+Gkotlin:S1874s"#Deprecated code should not be used.(âÏõÕşÿÿÿÿ8Âä›¶¿1
+Bkotlin:S1874ã"#Deprecated code should not be used.(¬à­r8ë²“¶¿1
+Ckotlin:S1874ä"#Deprecated code should not be used.(’ı¸£8Âä›¶¿1
+Bkotlin:S1874ê"#Deprecated code should not be used.(¬à­r8ë²“¶¿1
+Hkotlin:S1874ë"#Deprecated code should not be used.(Ğ¢ƒ•ûÿÿÿÿ8Âä›¶¿1
+rkotlin:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(èÏûÑ8Ïä›¶¿1
+wkotlin:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(‡çííıÿÿÿÿ8Ïä›¶¿1
+wkotlin:S3776"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(‡“¶åüÿÿÿÿ8Ïä›¶¿1
+Lkotlin:S4423Â",Change this code to use a stronger protocol.(³Æ‹8Ïä›¶¿1
+hkotlin:S6529"CReplace null check and collection size check with "isNullOrEmpty()"(»ŠÔûÿÿÿÿ8×ä›¶¿1
+ckotlin:S6529«"CReplace null check and collection size check with "isNullOrEmpty()"(ƒØ¾—8×ä›¶¿1
+Qkotlin:S6529“"1Replace collection size check with "isNotEmpty()"(¾¼’â8Üä›¶¿1
+rkotlin:S117¡"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(êÖÌúÿÿÿÿ8Üä›¶¿1
